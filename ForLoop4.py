@@ -65,4 +65,4 @@ for x in range (50,4,-5):
                     continue
                 print(x)  # 6,5,4,2
 
-
+# CTRL + C to stop loop

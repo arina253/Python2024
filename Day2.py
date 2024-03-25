@@ -1,5 +1,7 @@
 print("hello")
 
+# Types
+
 #introvert          #extrovert
 #calm               #loud
 #less social        more social
